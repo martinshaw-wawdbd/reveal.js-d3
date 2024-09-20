@@ -1,5 +1,5 @@
 {
-  "name": "reveald3",
+  "name": "martinshaw-wawdbd/reveald3",
   "version": "2.0.0",
   "description": "Full integration of animated javascript-based visualizations (D3, vega-lite, semiotic, etc ...) into Reveal.js presentations",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gcalmettes/reveal.js-d3.git"
+    "url": "git+https://github.com/martinshaw-wawdbd/reveal.js-d3.git"
   },
   "keywords": [
     "reveal",
@@ -18,7 +18,7 @@
   "author": "Guillaume Calmettes",
   "license": "MIT Copyright (c) 2017 Guillaume Calmettes",
   "bugs": {
-    "url": "https://github.com/gcalmettes/reveal.js-d3/issues"
+    "url": "https://github.com/martinshaw-wawdbd/reveal.js-d3/issues"
   },
-  "homepage": "https://github.com/gcalmettes/reveal.js-d3#readme"
+  "homepage": "https://github.com/martinshaw-wawdbd/reveal.js-d3#readme"
 }
