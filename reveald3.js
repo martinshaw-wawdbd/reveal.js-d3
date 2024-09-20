@@ -9,6 +9,8 @@ var Reveald3 = window.Reveald3 || {
     }
 };
 
+window.Reveald3 = Reveald3;
+
 const initReveald3 = function(Reveal){
     // check if configurations need to be overwritten
     const config = Reveal.getConfig() || {};
