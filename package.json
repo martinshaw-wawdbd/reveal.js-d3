@@ -1,5 +1,5 @@
 {
-  "name": "martinshaw-wawdbd/reveald3",
+  "name": "@martinshaw-wawdbd/reveald3",
   "version": "2.0.0",
   "description": "Full integration of animated javascript-based visualizations (D3, vega-lite, semiotic, etc ...) into Reveal.js presentations",
   "scripts": {
